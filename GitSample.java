@@ -10,7 +10,6 @@ public class GitSample {
 		String name = text.nextLine();
 		System.out.println("Hello " + name);
 		text.close();
-
 	}
 
 }
