@@ -8,7 +8,7 @@ public class GitSample {
 		System.out.println("Please enter your name: ");
 		Scanner text = new Scanner(System.in);
 		String name = text.nextLine();
-		System.out.println("Hello again " + name);
+		System.out.println("Hello again and again" + name);
 		text.close();
 	}
 
